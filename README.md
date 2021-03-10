@@ -1,2 +1,5 @@
 # DS_Bubble_Sort
-Bubble Sort is a very simple method that sorts the array elements by repeatedly moving the largest element to the highest index position of the array (in case of arranging elements in ascending order).
+In bubble sorting, consecutive adjacent pairs of elements in the array are compared with each other.
+If the element at lower index is greater than the element at the higher index, the two elements are interchanged so that the smaller element is placed before the bigger one. 
+This process is continued till the list of unsorted elements exhaust.
+
